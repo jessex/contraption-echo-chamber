@@ -1,4 +1,3 @@
-var sys = require('sys');
 var kexec = require('kexec');
 
 message = process.argv[2];

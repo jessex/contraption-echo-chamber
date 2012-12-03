@@ -6,6 +6,6 @@ sys.stdout.flush()
 
 remainder = message[1:len(message)]
 if remainder:
-  os.execl("/usr/bin/perl", "perl", "echo.pl", message[1:len(message)])
+  os.execl("/usr/bin/perl", "perl", "echo.pl", remainder)
 else:
   print ""
