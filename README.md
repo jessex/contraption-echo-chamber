@@ -38,7 +38,7 @@ It's also a somewhat intriguing abstraction of the illusion of consciousness. Th
 Requirements
 ------------
 
-You will need the runtimes of any languages found in the Echo Chamber. This initially includes Ruby (_version 1.9 and above_), Python, Perl, and Node.js. The first three should be found on any Unix machine. To run the Node.js portion of the chamber, you will need to [install Node.js](http://nodejs.org/) and install the `kexec` Node package, via `npm install kexec`.
+You will need the runtimes of any languages found in the Echo Chamber. This initially includes Ruby (version 1.9 and above), Python, Perl, and Node.js. The first three should be found on any Unix machine. To run the Node.js portion of the chamber, you will need to [install Node.js](http://nodejs.org/) and install the `kexec` Node package, via `npm install kexec`.
 
 Final Notes
 -----------
